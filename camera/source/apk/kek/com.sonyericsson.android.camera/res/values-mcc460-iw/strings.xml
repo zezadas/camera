@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">מצלמת WLAN/NFC של Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">לא ניתן להתחבר עם מצלמת WLAN/NFC כלשהי של Sony כאשר Xperia™‎ מחובר להתקן Xperia™‎‎ אחר.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">לא ניתן להתחבר להתקן Xperia™‎ כלשהו כאשר Xperia™‎ מחובר למצלמת WLAN/NFC של Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">רק מצלמת WLAN/NFC אחת של Sony יכולה להיות מחוברת ל-Xperia™‎ בכל רגע נתון.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">מצב זה אינו זמין במהלך חיבור לאינטרנט באמצעות WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">"השת' ב-WLAN ובנתונ' סלולר'"</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">הפעל WLAN</string>
+</resources>

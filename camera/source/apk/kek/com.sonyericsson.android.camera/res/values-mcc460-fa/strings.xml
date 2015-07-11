@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">دوربین WLAN/NFC محصول Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">زمانی که Xperia™‎ شما به یک Xperia™‎ دیگر متصل باشد، نمی‌توانید به هیچ‌گونه دوربین WLAN/NFC محصول Sony وصل شوید.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">زمانی که Xperia™‎ شما به یک دوربین WLAN/NFC محصول Sony متصل باشد، نمی‌توانید به هیچ Xperia™‎ دیگری وصل شوید.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">به طور همزمان فقط یک دوربین WLAN/NFC محصول Sony می‌تواند به یک Xperia™‎ وصل شود.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">این حالت در حین اشتراک‌گذاری اینترنت با WLAN موجود نیست.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">استفاده از WLAN و داده</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">روشن کردن WLAN</string>
+</resources>

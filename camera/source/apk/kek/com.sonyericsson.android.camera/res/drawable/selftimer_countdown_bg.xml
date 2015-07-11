@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="oval"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000" />
+    <size android:height="@dimen/viewfinder_countdown_outside_diameter" android:width="@dimen/viewfinder_countdown_outside_diameter" />
+    <stroke android:width="@dimen/viewfinder_countdown_stroke_width" android:color="#33ffffff" />
+</shape>

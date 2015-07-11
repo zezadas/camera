@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.cameracommon.view.Notification android:layout_gravity="right" android:paddingRight="@dimen/scene_indicator_margin_right" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/scene_indicator" android:layout_width="wrap_content" android:layout_height="@dimen/viewfinder_dialog_notifications_height" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <include android:id="@id/recognised_scene" android:layout_alignParentRight="true" layout="@layout/recognised_scene" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/condition_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/scene_indicator" android:layout_alignParentRight="true">
+        <include android:id="@id/recognised_condition" android:layout_alignParentRight="true" layout="@layout/recognised_condition" />
+    </RelativeLayout>
+</com.sonymobile.cameracommon.view.Notification>

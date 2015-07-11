@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">"Sony'র WLAN/NFC ক্যামেরা"</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">"আপনার Xperia™ যখন অন্য Xperia™ এর সঙ্গে সংযুক্ত হবে তখন Sony'র কোন WLAN/NFC ক্যামেরার সঙ্গে সংযোগ করতে পারবে না।"</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">"আপনার Xperia™ যখন কোন Sony'র WLAN/NFC ক্যামেরার সাথে সংযুক্ত হয় তখন কোন Xperia™ এর সাথে সংযোগ করতে পারে না।"</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">"একই সময়ে আপনার Xperia™ এর সাথে কেবলমাত্র একটি Sony'র WLAN/NFC ক্যামেরার সংযোগ ঘটানো যায়।"</string>
+    <string name="cam_strings_multicam_error_wifi_txt">WLAN -এ সংযোগকরণের সময় এই মোডটি অনুপলভ্য।</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">WLAN ও মোবাইল ডেটা ব্যবহা.ক.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">WLAN চালু করুন</string>
+</resources>

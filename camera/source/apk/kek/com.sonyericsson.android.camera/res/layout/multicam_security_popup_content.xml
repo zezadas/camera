@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/thermal_dialog" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/customized_dialog_font_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_multicam_security_info_txt" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <CheckBox android:textSize="@dimen/customized_dialog_font_size_small" android:id="@id/check_box" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_do_not_show_again_txt" />
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/customized_dialog_font_size" android:id="@id/footer_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

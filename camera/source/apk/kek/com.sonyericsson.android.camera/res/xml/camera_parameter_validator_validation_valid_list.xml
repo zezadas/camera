@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<validation-set-list>
+    <validation-set>
+        <base-condition>
+            <key-value-set key="sony-focus-area" value="center" />
+            <key-value-set key="focus-mode" value="continuous-picture" />
+        </base-condition>
+        <check-condition>
+            <key-value-set key="focus-areas" value="(0,0,0,0,0)" />
+        </check-condition>
+    </validation-set>
+    <validation-set>
+        <base-condition>
+            <key-value-set key="sony-focus-area" value="multi" />
+        </base-condition>
+        <check-condition>
+            <key-value-set key="focus-mode" value="macro" />
+            <key-value-set key="focus-areas" value="(0,0,0,0,0)" />
+        </check-condition>
+    </validation-set>
+    <validation-set>
+        <base-condition>
+            <key-value-set key="sony-focus-area" value="user" />
+        </base-condition>
+        <check-condition>
+            <key-value-set key="focus-mode" value="continuous-picture" />
+        </check-condition>
+    </validation-set>
+</validation-set-list>

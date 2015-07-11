@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.rotatableview.RotatableToast android:id="@id/rotatable_toast" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/rotatable_toast_base" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <FrameLayout android:layout_gravity="center" android:id="@id/rotatable_toast_text_background" android:background="@drawable/cam_dialog_background_icn_for_toast" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/rotatable_toast_text_size" android:gravity="center" android:id="@id/rotatable_toast_text" android:padding="@dimen/rotatable_toast_text_padding" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/OnScreenTextDropShadow" />
+        </FrameLayout>
+    </FrameLayout>
+</com.sonyericsson.cameracommon.rotatableview.RotatableToast>

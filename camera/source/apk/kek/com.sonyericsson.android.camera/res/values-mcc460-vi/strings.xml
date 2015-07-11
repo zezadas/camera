@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Máy ảnh WLAN/NFC của Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Không thể kết nối với máy ảnh WLAN/NFC của Sony khi Xperia™ của bạn được kết nối với Xperia™ khác.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Không thể kết nối với bất kỳ Xperia™ nào khi Xperia™ của bạn được kết nối với máy ảnh WLAN/NFC của Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Chỉ có thể kết nối một máy ảnh WLAN/NFC của Sony với Xperia™ của bạn một lúc.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Chế độ này không khả dụng trong khi kết nối WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Sd dữ liệu WLAN &amp; di động</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Bật WLAN</string>
+</resources>

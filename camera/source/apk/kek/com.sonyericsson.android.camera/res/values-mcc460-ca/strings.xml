@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Càmera WLAN/NFC de Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Quan el vostre Xperia™ està connectat amb un altre Xperia™, no es pot connectar a la càmera WLAN/NFC de Sony.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Quan el vostre Xperia™ està connectat a la càmera WLAN/NFC de Sony, no es pot connectar amb cap altre Xperia™.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Només es pot connectar una càmera WLAN/NFC de Sony al vostre Xperia™ alhora.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Aquest mode no està disponible durant tethering WLAN</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Utilitza WLAN i dades mòbils</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Activa WLAN</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/zoombar" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="@dimen/zoom_icon_width" android:layout_height="@dimen/zoom_icon_height" android:adjustViewBounds="true" android:layoutDirection="ltr">
+        <RelativeLayout android:id="@id/zoombar_indicator" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="@dimen/zoom_slider_width" android:layout_height="@dimen/zoom_slider_height" android:layoutDirection="ltr">
+            <ImageView android:id="@id/zoombar_thumb" android:background="@drawable/cam_zoom_indicator_portrait_icn" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="@dimen/zoom_thumb_width" android:layout_height="@dimen/zoom_slider_height" android:adjustViewBounds="true" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </RelativeLayout>
+</merge>

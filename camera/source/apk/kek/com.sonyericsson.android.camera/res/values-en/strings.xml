@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_self_timer_2_txt">On (2 s.)</string>
+    <string name="cam_strings_self_timer_10_txt">On (10 s.)</string>
+    <string name="cam_strings_focus_mode_single_af_txt">Single auto focus</string>
+    <string name="cam_strings_focus_mode_multi_af_txt">Multi auto focus</string>
+    <string name="cam_strings_exposure_level_pm0_txt">EV ±0.0</string>
+    <string name="cam_strings_photometry_center_txt">Centre</string>
+    <string name="cam_strings_image_stabilizer_txt">Image stabiliser</string>
+    <string name="cam_3d_strings_creating_but_too_quick_txt">Could not complete capturing. Please pan more slowly.</string>
+    <string name="cam_3d_strings_creating_but_too_slow_txt">Could not complete capturing. Please pan faster.</string>
+    <string name="cam_3d_strings_creating_but_incorrect_direction_txt">Could not complete capturing. Please pan in the correct direction.</string>
+    <string name="cam_3d_strings_dialog_processing_include_black_area_txt">"Processing...
+This image contains a grey area"</string>
+    <string name="cam_3d_strings_dialog_multi_angle_processing_include_black_area_txt">"Creating the following files:
+- Multi Angle image
+- 3D image
+Note: These files contain a grey area."</string>
+    <string name="cam_strings_image_stabilizer_title_txt">Image stabiliser</string>
+    <string name="cam_strings_effect_partical_color_txt">Partial colour</string>
+    <string name="cam_strings_art_filter_guesture_guide_tap_txt">Tap the portion you want to colour</string>
+    <string name="cam_strings_scenes_soft_skin_cy_txt">Soft Skin</string>
+    <string name="cam_strings_soft_skin_effect_cy_txt">Soft Skin Effect</string>
+    <string name="cam_strings_flash_torch_txt">Torch</string>
+    <string name="cam_strings_long_press_burst_txt">Burst with long press</string>
+    <string name="cam_strings_accessibility_switch_to_front_txt">Double-tap to switch to front camera</string>
+    <string name="cam_strings_accessibility_switch_to_main_txt">Double-tap to switch to rear camera</string>
+    <string name="cam_strings_video_stabilizer_txt">Video stabiliser</string>
+    <string name="cam_strings_description_superior_auto_txt">Take photos and videos with automatically optimised settings</string>
+    <string name="cam_strings_change_storage_to_sd_txt">SD card inserted. Change default save location to SD card?</string>
+    <string name="cam_strings_description_high_frame_rate_txt">Record high frame-rate video and apply slow motion effects</string>
+    <string name="cam_strings_effect_color_pencil_txt">Colour sketch</string>
+    <string name="cam_strings_video_explanatory_txt">"For stable video recording, we recommend that you change the save location to internal storage. Would you like to change this now?
+
+If you continue to use the SD card for data storage, make sure that you use a high-speed SD card (Class 10 or higher recommended)."</string>
+    <string name="cam_strings_error_internal_memory_unavailable_txt">Internal storage is corrupted or write protected. Save location changed to SD card.</string>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Sony Wi-Fi/NFC camera</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Cannot connect with a Sony Wi-Fi/NFC camera when your Xperia™ is connected with another Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Cannot connect with another Xperia™ when your Xperia™ is connected with a Sony Wi-Fi/NFC camera.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Only one Sony Wi-Fi/NFC camera can be connected with your Xperia™ at a time.</string>
+    <string name="cam_strings_description_shoundphoto_txt">Take photos with background sound (birds chirping etc.)</string>
+    <string name="cam_strings_description_dualrec_txt">Put your face in photos and videos using the front and main cameras</string>
+    <string name="cam_string_dualrec_t_am_txt">%1$tl:%2$tM AM</string>
+    <string name="cam_string_dualrec_t_pm_txt">%1$tl:%2$tM PM</string>
+    <string name="cam_string_dualrec_m_jan_txt">%1$td January %2$tY</string>
+    <string name="cam_string_dualrec_m_feb_txt">%1$td February %2$tY</string>
+    <string name="cam_string_dualrec_m_mar_txt">%1$td March %2$tY</string>
+    <string name="cam_string_dualrec_m_apr_txt">%1$td April %2$tY</string>
+    <string name="cam_string_dualrec_m_may_txt">%1$td May %2$tY</string>
+    <string name="cam_string_dualrec_m_jun_txt">%1$td June %2$tY</string>
+    <string name="cam_string_dualrec_m_jul_txt">%1$td July %2$tY</string>
+    <string name="cam_string_dualrec_m_aug_txt">%1$td August %2$tY</string>
+    <string name="cam_string_dualrec_m_sep_txt">%1$td September %2$tY</string>
+    <string name="cam_string_dualrec_m_oct_txt">%1$td October %2$tY</string>
+    <string name="cam_string_dualrec_m_nov_txt">%1$td November %2$tY</string>
+    <string name="cam_string_dualrec_m_dec_txt">%1$td December %2$tY</string>
+    <string name="cam_strings_dialog_high_temp_vzw_txt">If the device temperature rises, the app may close during use. Your recording will be saved automatically.</string>
+    <string name="cam_strings_error_high_temp_info_vzw_txt">The device temperature is rising. If it continues to rise, the app will close automatically.</string>
+    <string name="cam_strings_error_high_temp_shutting_down_vzw_txt">Camera will now turn off temporarily to cool down.</string>
+    <string name="cam_strings_video_size_pixel_full_hd_txt">Full HD/1920x1080(16:9)</string>
+    <string name="cam_strings_video_size_pixel_full_hd_60fps_txt">Full HD (60 fps)/1920x1080(16:9)</string>
+    <string name="cam_strings_video_size_pixel_full_hd_30fps_txt">Full HD (30 fps)/1920x1080(16:9)</string>
+    <string name="cam_strings_video_size_pixel_hd_txt">HD/1280x720(16:9)</string>
+    <string name="cam_strings_video_size_pixel_vga_4x3_txt">VGA/640x480(4:3)</string>
+    <string name="cam_strings_video_size_pixel_qvga_4x3_txt">QVGA/320x240(4:3)</string>
+    <string name="cam_strings_self_timer_05_txt">On (0.5 s.)</string>
+    <string name="cam_strings_facefusion_explanatory_txt">Tap a face to highlight it and select your favourite face from mask selector</string>
+</resources>

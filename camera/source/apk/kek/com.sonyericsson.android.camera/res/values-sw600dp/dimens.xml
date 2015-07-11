@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rotatable_toast_max_width_for_land">656.0dip</dimen>
+    <dimen name="rotatable_toast_max_width_for_port">480.0dip</dimen>
+    <dimen name="rotatable_toast_text_padding">8.0dip</dimen>
+    <dimen name="rotatable_toast_text_size">14.0sp</dimen>
+    <dimen name="left_container_padding_left">20.0dip</dimen>
+    <dimen name="setting_dialog_menu_max_height_margin_tablet">100.0dip</dimen>
+    <dimen name="left_container_width">80.0dip</dimen>
+    <dimen name="right_container_width">140.0dip</dimen>
+</resources>

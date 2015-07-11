@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <level-list>
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_pressed_rect_icn" android:maxLevel="0" />
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_pressed_rect_upper_rounded_icn" android:maxLevel="1" />
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_pressed_rect_bottom_rounded_icn" android:maxLevel="2" />
+        </level-list>
+    </item>
+    <item android:state_selected="true">
+        <level-list>
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_highlighted_rect_icn" android:maxLevel="0" />
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_highlighted_rect_upper_rounded_icn" android:maxLevel="1" />
+            <item android:drawable="@drawable/cam_shortcut_dialog_item_highlighted_rect_bottom_rounded_icn" android:maxLevel="2" />
+        </level-list>
+    </item>
+    <item android:state_selected="false" android:state_pressed="false" android:drawable="@android:color/transparent" />
+</selector>

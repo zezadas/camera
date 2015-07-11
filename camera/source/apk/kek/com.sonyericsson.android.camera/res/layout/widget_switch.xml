@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.widget.Switch android:orientation="horizontal" android:id="@id/switch_layout" android:paddingLeft="@dimen/left_edge_padding" android:paddingRight="@dimen/right_edge_padding" android:layout_width="fill_parent" android:layout_height="@dimen/menu_dialog_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center|left" android:layout_gravity="left" android:id="@id/switch_category" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="162.0dip" android:maxLines="2" android:textDirection="locale" style="@style/TextAppearance.SomcCamera.Large" />
+    <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="fill_parent" android:layoutDirection="ltr">
+        <ImageView android:id="@id/switch_track" android:layout_width="wrap_content" android:layout_height="fill_parent" />
+        <FrameLayout android:id="@id/switch_thumb_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr">
+            <ImageView android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/cam_setting_dialog_item_switch_icn" />
+        </FrameLayout>
+    </FrameLayout>
+</com.sonyericsson.cameracommon.widget.Switch>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Sony ಯ WLAN/NFC ಕ್ಯಾಮೆರಾ</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">ನಿಮ್ಮ Xperia™ ಮತ್ತೊಂದು Xperia™ ದೊಂದಿಗೆ ಸಂಪರ್ಕಿತವಾಗಿರುವಾಗ ಯಾವುದೇ Sony ಯ WLAN/NFC ಕ್ಯಾಮೆರಾದೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">ನಿಮ್ಮ Xperia™ Sony ಯ WLAN/NFC ಕ್ಯಾಮೆರಾದೊಂದಿಗೆ ಸಂಪರ್ಕಿತವಾಗಿರುವಾಗ ಯಾವುದೇ Xperia™ ದೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ Xperia™ ದೊಂದಿಗೆ ಕೇವಲ ಒಂದು Sony ಯ WLAN/NFC ಕ್ಯಾಮೆರಾ ಸಂಪರ್ಕಿಸಬಹುದು.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">WLAN ಟೆಥರಿಂಗ್ ಸಮಯದಲ್ಲಿ ಈ ಮೋಡ್ ಲಭ್ಯವಿಲ್ಲ.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">WLAN &amp; ಮೊಬೈಲ್ ಡೇಟಾ</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">WLAN ಆನ್ ಮಾಡು</string>
+</resources>

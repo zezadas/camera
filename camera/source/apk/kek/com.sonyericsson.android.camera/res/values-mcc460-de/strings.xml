@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">WLAN/NFC-Kamera von Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Verbindung mit WLAN/NFC-Kamera von Sony kann nicht hergestellt werden, wenn Ihr Xperia™ mit einem anderen Xperia™ verbunden ist.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Verbindung mit einem Xperia™ kann nicht hergestellt werden, wenn Ihr Xperia™ mit WLAN oder einer NFC-Kamera von Sony verbunden ist.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Nur ein WLAN oder eine NFC-Kamera von Sony kann mit einem Xperia™ gleichzeitig verbunden werden.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Diese Modus ist während einer WLAN-Anbindung nicht verfügbar.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">WLAN u. mob. Daten zu verw.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">WLAN aktivieren</string>
+</resources>

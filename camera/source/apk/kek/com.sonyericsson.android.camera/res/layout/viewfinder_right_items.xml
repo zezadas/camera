@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:id="@id/right_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center|top" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonyericsson.cameracommon.contentsview.ContentsContainer android:gravity="center" android:layout_gravity="center" android:id="@id/contents_container" android:layout_width="@dimen/thumbnail_size_actual" android:layout_height="@dimen/thumbnail_size_actual" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include layout="@layout/viewfinder_on_screen_button_group" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonyericsson.cameracommon.viewfinder.capturingmode.CapturingModeButton android:layout_gravity="center" android:id="@id/mode_selector_button" android:layout_width="@dimen/capturing_mode_selector_button_item_width" android:layout_height="@dimen/capturing_mode_selector_button_item_height" />
+    </FrameLayout>
+    <FrameLayout android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@id/capture_right_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/cam_strings_accessibility_shutter_button_txt">
+            <com.sonyericsson.cameracommon.viewfinder.onscreenbutton.OnScreenButton android:id="@id/capture_right_bottom_button" android:focusable="false" android:focusableInTouchMode="false" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </FrameLayout>
+</FrameLayout>

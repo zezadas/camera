@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.setting.dialog.SettingControlDialog android:paddingLeft="@dimen/control_dialog_left_padding" android:paddingTop="@dimen/control_dialog_top_padding" android:paddingRight="@dimen/control_dialog_right_padding" android:paddingBottom="@dimen/control_dialog_bottom_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/dialog_items" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr" />
+</com.sonyericsson.cameracommon.setting.dialog.SettingControlDialog>

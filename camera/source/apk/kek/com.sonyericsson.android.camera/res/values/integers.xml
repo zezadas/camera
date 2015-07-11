@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">6171000</integer>
+    <integer name="focus_indicator_animation_focusin_duration">70</integer>
+    <integer name="focus_indicator_animation_fadeout_duration">70</integer>
+    <integer name="acceptable_burst_shot_fps_x1000">10000</integer>
+    <integer name="rec_sequence_thumbnail_max_num">3</integer>
+    <integer name="setting_fadeduration">1000</integer>
+    <integer name="setting_defaultdelaybeforefade">1000</integer>
+    <integer name="shortcut_icon_count">5</integer>
+    <integer name="viewfinder_leftside_component_width_ratio">8</integer>
+    <integer name="settings_menu_dialog_panel_item_txt_lines">2</integer>
+</resources>

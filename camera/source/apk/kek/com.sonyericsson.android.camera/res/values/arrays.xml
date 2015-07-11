@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ux_recommended_photo_scenes">
+        <item>OFF</item>
+        <item>SOFT_SKIN</item>
+        <item>PORTRAIT</item>
+        <item>ANTI_MOTION</item>
+        <item>LANDSCAPE</item>
+        <item>BACKLIGHT_HDR</item>
+        <item>NIGHT_PORTRAIT</item>
+        <item>NIGHT</item>
+        <item>HAND_NIGHT</item>
+        <item>HIGH_SENSITIVITY</item>
+        <item>GOURMET</item>
+        <item>PET</item>
+        <item>BEACH</item>
+        <item>SNOW</item>
+        <item>PARTY</item>
+        <item>SPORTS</item>
+        <item>DOCUMENT</item>
+        <item>FIRE_WORKS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_scenes">
+        <item>OFF</item>
+        <item>PORTRAIT</item>
+        <item>LANDSCAPE</item>
+        <item>NIGHT_MODE</item>
+        <item>BEACH</item>
+        <item>SNOW</item>
+        <item>SPORTS</item>
+        <item>PARTY</item>
+    </string-array>
+    <string-array name="ux_recommended_photo_focus_modes">
+        <item>SINGLE</item>
+        <item>MULTI</item>
+        <item>FACE_DETECTION</item>
+        <item>FIXED</item>
+        <item>TOUCH_FOCUS</item>
+        <item>OBJECT_TRACKING</item>
+    </string-array>
+    <string-array name="ux_recommended_video_focus_modes">
+        <item>SINGLE</item>
+        <item>FACE_DETECTION</item>
+        <item>FIXED</item>
+        <item>OBJECT_TRACKING</item>
+    </string-array>
+    <string-array name="ux_recommended_photo_no_extension_focus_modes">
+        <item>SINGLE</item>
+        <item>FIXED</item>
+    </string-array>
+    <string-array name="ux_recommended_video_no_extension_focus_modes">
+        <item>SINGLE</item>
+        <item>FIXED</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_23m">
+        <item>TWENTY_THREE_MP</item>
+        <item>TWENTY_MP_WIDE</item>
+        <item>EIGHT_MP</item>
+        <item>EIGHT_MP_WIDE</item>
+        <item>THREE_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_20m">
+        <item>TWENTY_MP</item>
+        <item>FIFTEEN_MP_WIDE</item>
+        <item>EIGHT_MP</item>
+        <item>EIGHT_MP_WIDE</item>
+        <item>THREE_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_13m">
+        <item>THIRTEEN_MP</item>
+        <item>HDR_NINE_MP</item>
+        <item>FIVE_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_12m">
+        <item>TWELVE_MP</item>
+        <item>NINE_MP</item>
+        <item>TWO_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_8m">
+        <item>EIGHT_MP</item>
+        <item>FIVE_MP_WIDE</item>
+        <item>THREE_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_8m_hdr3">
+        <item>EIGHT_MP</item>
+        <item>SIX_MP</item>
+        <item>THREE_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_5m">
+        <item>FIVE_MP</item>
+        <item>THREE_POINT_SEVEN_MP_WIDE</item>
+        <item>TWO_MP</item>
+        <item>TWO_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_2m_main_20m">
+        <item>TWO_MP_WIDE</item>
+        <item>HDR_TWO_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_2m_main_20m_hdr3">
+        <item>TWO_MP_WIDE</item>
+        <item>UXGA</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_2m">
+        <item>TWO_MP_WIDE</item>
+        <item>HDR_TWO_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_2m_hdr3">
+        <item>TWO_MP_WIDE</item>
+        <item>UXGA</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_1m">
+        <item>ONE_MP_NARROW</item>
+        <item>ONE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_vga">
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_23m">
+        <item>EIGHT_MP</item>
+        <item>EIGHT_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_20m">
+        <item>EIGHT_MP</item>
+        <item>EIGHT_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_13m">
+        <item>HDR_TWELVE_MP</item>
+        <item>HDR_NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_12m">
+        <item>TWELVE_MP</item>
+        <item>NINE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_8m">
+        <item>HDR_SEVEN_MP</item>
+        <item>FIVE_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_8m_resolution_independent_hdr">
+        <item>EIGHT_MP</item>
+        <item>SIX_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_5m">
+        <item>FIVE_MP</item>
+        <item>THREE_POINT_SEVEN_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_superiorauto_2m_resolution_independent_hdr">
+        <item>TWO_MP_WIDE</item>
+        <item>UXGA</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_superiorauto_2m">
+        <item>TWO_MP_WIDE</item>
+        <item>HDR_TWO_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_superiorauto_1m">
+        <item>ONE_MP_NARROW</item>
+        <item>ONE_MP</item>
+    </string-array>
+    <string-array name="ux_recommended_resolution_array_front_superiorauto_vga">
+        <item>VGA</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_23m">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_20m">
+        <item>FULL_HD</item>
+        <item>FULL_HD_60FPS</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_13m">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_12m">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>VGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_8m_full_hd_60fps">
+        <item>FULL_HD_60FPS</item>
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_8m_full_hd">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_main_8m_hd">
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>QVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_front_5m">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_front_2m_main_20m">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_front_2m">
+        <item>FULL_HD</item>
+        <item>HD</item>
+        <item>FWVGA</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_front_1m">
+        <item>HD</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="ux_recommended_video_size_array_front_vga">
+        <item>VGA</item>
+        <item>QVGA</item>
+        <item>MMS</item>
+    </string-array>
+</resources>

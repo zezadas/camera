@@ -1,0 +1,19 @@
+.class public final Lcom/sonyericsson/cameracommon/utility/CameraLoggerOptions;
+.super Ljava/lang/Object;
+.source "CameraLoggerOptions.java"
+
+
+# static fields
+.field public static final DEBUG:Z
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 14
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method

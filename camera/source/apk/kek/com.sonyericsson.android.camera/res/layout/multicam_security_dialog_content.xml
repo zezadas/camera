@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/customized_dialog_font_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_cta_description_txt" />
+    <TextView android:textAppearance="@android:style/TextAppearance.Material.Body2" android:textColor="?android:colorPrimary" android:id="@id/text_cta_dialog_subtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/customized_dialog_space" android:text="@string/cam_strings_dialog_cta_access_txt" />
+    <TextView android:textSize="@dimen/customized_dialog_font_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/customized_dialog_space" android:text="@string/cam_strings_dialog_cta_wifi_mobile_data_txt" />
+    <TextView android:textSize="@dimen/customized_dialog_font_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_dialog_cta_turn_on_wifi_txt" />
+    <TextView android:textSize="@dimen/customized_dialog_font_size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/customized_dialog_space" android:text="@string/cam_strings_dialog_cta_turn_on_nfc_txt" />
+</LinearLayout>

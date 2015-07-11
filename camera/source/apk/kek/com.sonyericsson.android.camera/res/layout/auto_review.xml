@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.review.AutoReviewWindow android:id="@id/auto_review_base" android:focusable="true" android:focusableInTouchMode="true" android:visibility="invisible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="left" android:id="@id/auto_review_picture_image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.sonyericsson.cameracommon.review.PlayButton android:layout_gravity="center" android:id="@id/auto_review_play" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/cam_video_preview_play_icn" />
+    <LinearLayout android:layout_gravity="right" android:orientation="vertical" android:id="@id/auto_review_right" android:paddingRight="@dimen/auto_review_right_margin" android:layout_width="wrap_content" android:layout_height="fill_parent" android:weightSum="4.0">
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.sonyericsson.cameracommon.review.ViewButton android:layout_gravity="center" android:id="@id/auto_review_view" android:background="@drawable/setting_shortcut_selector" android:layout_width="@dimen/auto_review_icon_width" android:layout_height="@dimen/auto_review_icon_height" android:src="@drawable/cam_photo_preview_album_icn" android:scaleType="center" android:contentDescription="@string/cam_strings_accessibility_viewer_txt" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.sonyericsson.cameracommon.review.ShareButton android:layout_gravity="center" android:id="@id/auto_review_share" android:background="@drawable/setting_shortcut_selector" android:layout_width="@dimen/auto_review_icon_width" android:layout_height="@dimen/auto_review_icon_height" android:src="@drawable/cam_photo_preview_share_icn" android:scaleType="center" android:contentDescription="@string/cam_strings_file_share_title_txt" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.sonyericsson.cameracommon.review.EditButton android:layout_gravity="center" android:id="@id/auto_review_edit" android:background="@drawable/setting_shortcut_selector" android:layout_width="@dimen/auto_review_icon_width" android:layout_height="@dimen/auto_review_icon_height" android:scaleType="center" android:contentDescription="@string/cam_strings_preview_edit_txt" />
+        </FrameLayout>
+        <FrameLayout android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.sonyericsson.cameracommon.review.DeleteButton android:layout_gravity="center" android:id="@id/auto_review_delete" android:background="@drawable/setting_shortcut_selector" android:layout_width="@dimen/auto_review_icon_width" android:layout_height="@dimen/auto_review_icon_height" android:src="@drawable/cam_photo_preview_delete_icn" android:scaleType="center" android:contentDescription="@string/cam_strings_file_delete_confirm_title_txt" />
+        </FrameLayout>
+    </LinearLayout>
+</com.sonyericsson.cameracommon.review.AutoReviewWindow>

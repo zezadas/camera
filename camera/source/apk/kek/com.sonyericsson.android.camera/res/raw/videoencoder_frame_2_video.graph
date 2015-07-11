@@ -1,0 +1,47 @@
+//
+// Copyright (C) 2013 Sony Mobile Communications AB.
+// All rights, including trade secret rights, reserved.
+//
+
+// Imports.
+@import android.filterpacks.videosrc;
+@import android.filterpacks.videosink;
+@import android.filterpacks.base;
+
+// Settings.
+//TODO:Check future Android implementation.
+@setting autoBranch = "synced";
+
+// Externals. These fields must be filled in GraphEnv before load graph.
+// Src frame fields.
+@external sourceFrameCallback;
+@external frameWidth;
+@external frameHeight;
+// Dst recorder fields.
+@external recDoneCallback;
+@external recInfoCallback;
+@external recErrorCallback;
+
+
+
+// Src surface.
+@filter SurfaceTextureSource source {
+    sourceListener = $sourceFrameCallback;
+    width = $frameWidth;
+    height = $frameHeight;
+    waitForNewFrame = true;
+    closeOnTimeout = true;
+    waitTimeout = 1000;
+}
+
+// Dst recorder.
+@filter MediaEncoderFilter recorder {
+	recording = false;
+    recordingDoneListener = $recDoneCallback;
+    infoListener = $recInfoCallback;
+    errorListener = $recErrorCallback;
+}
+
+// Connections.
+@connect source[video] => recorder[videoframe];
+

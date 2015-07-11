@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.cameracommon.view.SelfTimerCountDownView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/selftimer_countdown_base" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:id="@id/selftimer_countdown_bg" android:layout_width="@dimen/viewfinder_countdown_outside_diameter" android:layout_height="@dimen/viewfinder_countdown_outside_diameter" android:src="@drawable/selftimer_countdown_bg" />
+        <com.sonymobile.cameracommon.view.SelfTimerCountDownCircleView android:layout_gravity="center" android:id="@id/selftimer_countdown_circle" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <com.sonymobile.cameracommon.view.SelfTimerCountDownNumberView android:layout_gravity="center" android:id="@id/selftimer_countdown_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:shadowColor="#00000000" style="@style/OnScreenTextDropShadow" />
+    </FrameLayout>
+</com.sonymobile.cameracommon.view.SelfTimerCountDownView>

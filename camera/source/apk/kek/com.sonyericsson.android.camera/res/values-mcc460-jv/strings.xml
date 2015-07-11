@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">"Sony's WLAN/NFC camera"</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">"Ora bisa nyambungake nyang Sony's WLAN/NFC camera nalika Xperia™ kasambung karo Xperia™ liya."</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">"Ora bisa nyambungake karo Xperia™ apa wae nalka Xperia™ kasambung karo Sony's WLAN/NFC camera."</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">"Mung siji Sony's WLAN/NFC camera sing bisa nyambung karo Xperia™ sawayah-wayah."</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Mode iki ora kasedhiya nalika nambatake WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Gawe WLAN &amp; data sel.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Aktifake WLAN</string>
+</resources>

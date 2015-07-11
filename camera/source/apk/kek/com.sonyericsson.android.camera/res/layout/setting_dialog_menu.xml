@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.setting.dialog.SettingTabDialogBasic android:orientation="vertical" android:id="@id/background" android:background="@drawable/cam_shortcut_dialog_background_icn" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/container" android:padding="@dimen/shortcut_dialog_padding" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonyericsson.cameracommon.setting.dialog.SettingTabs android:orientation="horizontal" android:id="@id/tabs" android:layout_width="fill_parent" android:layout_height="@dimen/setting_group_tab_height">
+            <FrameLayout android:id="@id/tab_left" android:background="@drawable/setting_tab_background_left" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:id="@id/icon" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/tab_middle" android:background="@drawable/setting_tab_background_middle" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:id="@id/icon" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+            </FrameLayout>
+            <FrameLayout android:id="@id/tab_right" android:background="@drawable/setting_tab_background_right" android:clickable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+                <ImageView android:id="@id/icon" android:duplicateParentState="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="center" />
+            </FrameLayout>
+        </com.sonyericsson.cameracommon.setting.dialog.SettingTabs>
+        <GridView android:scrollbarStyle="outsideOverlay" android:layout_gravity="right" android:id="@id/setting_gridview" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawSelectorOnTop="false" android:stretchMode="columnWidth" android:columnWidth="0.0dip" android:numColumns="1" android:scrollbarFadeDuration="@integer/setting_fadeduration" android:scrollbarDefaultDelayBeforeFade="@integer/setting_defaultdelaybeforefade" />
+    </LinearLayout>
+</com.sonyericsson.cameracommon.setting.dialog.SettingTabDialogBasic>

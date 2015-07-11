@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Aparat WLAN/NFC firmy Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Nie można połączyć z aparatem WLAN/NFC firmy Sony, kiedy urządzenie Xperia™ jest połączone z innym urządzeniem Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Nie można połączyć z innym urządzeniem Xperia™, kiedy to urządzenie Xperia™ jest połączone z aparatem WLAN/NFC firmy Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Z urządzeniem Xperia™ może być połączony tylko jeden aparat WLAN/NFC firmy Sony.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Ten tryb jest niedostępny podczas tetheringu WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Uż. dan. w sieci WLAN i kom.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Włącz WLAN</string>
+</resources>

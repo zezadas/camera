@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Sony WLAN/NFC камерасы</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Xperia™ құрылғысы екінші Xperia™ құрылғысына қосылған кезде ешбір Sony WLAN/NFC камерасына қосылу мүмкін емес.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Xperia™ құрылғысы Sony WLAN/NFC камерасына қосылған кезде ешбір Xperia™ құрылғысына қосылу мүмкін емес.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Xperia™ құрылғысына бір уақытта тек бір Sony WLAN/NFC камерасын қосуға болады.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Бұл режим WLAN кіру нүктесі ретінде пайдалану кезінде қол жетімді емес.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">WLAN және моб. дер. пайд.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">WLAN қосу</string>
+</resources>

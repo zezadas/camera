@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/counter_background" android:layout_width="@dimen/thumbnail_image_size" android:layout_height="@dimen/thumbnail_image_size">
+        <TextView android:textSize="22.0dip" android:layout_gravity="center" android:id="@id/counter_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/OnScreenTextDropShadow" />
+    </FrameLayout>
+</FrameLayout>

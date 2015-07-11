@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.contentsview.ContentPallet android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/cam_strings_accessibility_recent_photo_txt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/content_progress_bar" android:visibility="invisible" android:layout_width="@dimen/thumbnail_image_size" android:layout_height="@dimen/thumbnail_image_size" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/content_thumbnail" android:layout_width="@dimen/thumbnail_image_size" android:layout_height="@dimen/thumbnail_image_size" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/content_thumbnail_frame" android:background="@drawable/thumbnail_frame_selector" android:visibility="invisible" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</com.sonyericsson.cameracommon.contentsview.ContentPallet>

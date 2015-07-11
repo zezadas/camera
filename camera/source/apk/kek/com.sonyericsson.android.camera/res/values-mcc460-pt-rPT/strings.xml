@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Câmara WLAN/NFC da Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Não é possível ligar com nenhuma câmara WLAN/NFC da Sony se o seu Xperia™ estiver ligado a outro Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Não é possível ligar com nenhum Xperia™ se o seu Xperia™ estiver ligado a uma câmara WLAN/NFC da Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Só é possível ligar uma câmara WLAN/NFC da Sony ao seu Xperia™ de cada vez.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Este modo não está disponível durante a partilha de ligação WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Utilizar WLAN e dados móveis</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Ligar WLAN:</string>
+</resources>

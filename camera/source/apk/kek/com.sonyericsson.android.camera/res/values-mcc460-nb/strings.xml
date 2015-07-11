@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Sonys WLAN/NFC-kamera</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Kan ikke tilkoble et Sony WLAN/NFC-kamera når din Xperia™ er tilkoblet en annen Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Kan ikke tilkoble en Xperia™ når din Xperia™ er tilkoblet et Sony WLAN/NFC-kamera.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Kun et Sony WLAN/NFC-kamera kan være tilkoblet din Xperia™ om gangen.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Denne modusen er ikke tilgjengelig under WLAN-deling.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">bruke WLAN &amp; mobildata</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Slå på WLAN</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center|right" android:id="@id/notification_indicator_container" android:paddingRight="@dimen/right_notification_padding_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/geo_tag_indicator" android:layout_width="@dimen/layout_notification_icon_size" android:layout_height="@dimen/layout_notification_icon_size" />
+    <ImageView android:id="@id/low_memory_indicator" android:background="@drawable/cam_notice_lack_memory_icn" android:layout_width="@dimen/layout_notification_icon_size" android:layout_height="@dimen/layout_notification_icon_size" />
+    <ImageView android:id="@id/thermal_indicator" android:background="@drawable/cam_high_temperature_icn" android:layout_width="@dimen/layout_notification_icon_size" android:layout_height="@dimen/layout_notification_icon_size" />
+</LinearLayout>

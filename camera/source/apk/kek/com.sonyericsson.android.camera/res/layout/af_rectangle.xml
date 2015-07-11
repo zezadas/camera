@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonyericsson.cameracommon.focusview.TaggedRectangle android:id="@id/af_rectangle" android:focusable="false" android:focusableInTouchMode="false" android:visibility="invisible" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonyericsson.cameracommon.focusview.Rectangle android:id="@id/rect" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/rect_image" android:background="@drawable/cam_focus_indicator_white_icn" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </com.sonyericsson.cameracommon.focusview.Rectangle>
+    <include android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" layout="@layout/setting_wb_item" />
+    <include android:layout_width="wrap_content" android:layout_height="wrap_content" layout="@layout/tag_frame" />
+</com.sonyericsson.cameracommon.focusview.TaggedRectangle>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scene_recognition_shortcut_map">
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+    </string-array>
+    <string-array name="scene_selection_shortcut_map">
+        <item>SCENE</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+    </string-array>
+    <string-array name="normal_shortcut_map">
+        <item>EV</item>
+        <item>BLANK_ITEM</item>
+        <item>HDR</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+    </string-array>
+    <string-array name="video_shortcut_map">
+        <item>SCENE</item>
+        <item>BLANK_ITEM</item>
+        <item>VIDEO_HDR</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+    </string-array>
+    <string-array name="front_shortcut_map">
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+        <item>BLANK_ITEM</item>
+    </string-array>
+</resources>

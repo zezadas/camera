@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Камера WLAN/NFC від Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Не можна підключитися до жодної камери WLAN/NFC від Sony, якщо ваш пристрій Xperia™ підключено до іншого пристрою Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Не можна підключитися до жодного пристрою Xperia™, якщо ваш пристрій Xperia™ підключено до камери WLAN/NFC від Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">До пристрою Xperia™ можна підключати лише одну камеру WLAN/NFC від Sony за раз.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Цей режим недоступний під час зв’язування через WLAN.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Викор. WLAN і пакетні дані</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Увімкнути WLAN</string>
+</resources>

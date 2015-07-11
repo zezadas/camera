@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/background" android:background="@drawable/setting_item_selector" android:layout_width="0.0dip" android:layout_height="0.0dip">
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:paddingLeft="@dimen/second_layer_dialog_item_padding_left" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/second_layer_dialog_item_padding_left">
+            <TextView android:gravity="center_vertical" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="250.0dip" android:maxLines="2" style="@style/TextAppearance.SomcCamera.Medium" />
+        </LinearLayout>
+    </FrameLayout>
+    <RelativeLayout android:id="@id/setting_divider" android:background="@drawable/cam_dialog_separator_icn" android:paddingLeft="@dimen/divider_side_padding" android:paddingRight="@dimen/divider_side_padding" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="@dimen/divider_height" />
+</LinearLayout>

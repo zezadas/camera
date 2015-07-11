@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/disclaimer_dialog" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:padding="@dimen/customized_dialog_space" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/customized_dialog_font_size" android:id="@id/data_charge_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_term_of_use_data_charge_txt" />
+    </RelativeLayout>
+    <RelativeLayout android:padding="@dimen/customized_dialog_space" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/customized_dialog_font_size" android:id="@id/data_collection_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cam_strings_term_of_use_data_collection_txt" />
+    </RelativeLayout>
+    <RelativeLayout android:padding="@dimen/customized_dialog_space" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <CheckBox android:textSize="@dimen/customized_dialog_font_size_small" android:linksClickable="true" android:id="@id/check_box" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <RelativeLayout android:padding="@dimen/customized_dialog_space" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/customized_dialog_font_size" android:id="@id/footer_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </RelativeLayout>
+</LinearLayout>

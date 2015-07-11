@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_tablet">false</bool>
+    <bool name="disable_mms">false</bool>
+    <bool name="use_max_still_capture_resolution_as_default_regardless_of_display_aspect">false</bool>
+    <bool name="display_frontcamera_location_indication">false</bool>
+    <bool name="is_superior_auto_supported">true</bool>
+</resources>

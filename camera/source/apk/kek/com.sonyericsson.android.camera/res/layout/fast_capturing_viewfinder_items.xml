@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/fast_capturing_viewfinder_items" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.sonyericsson.android.camera.fastcapturing.view.CaptureArea android:id="@id/viewfinder_capture" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:id="@id/focus_rectangles" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <include android:id="@id/auto_review_base" layout="@layout/auto_review" />
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/head_up_display" android:background="#00000000" android:layoutDirection="ltr"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/setting_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="locale" />
+    <FrameLayout android:layout_gravity="center|top" android:id="@id/capture_method_indicator_container" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layoutDirection="ltr" />
+    <FrameLayout android:layout_gravity="bottom|center|right" android:id="@id/mode_indicator_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layoutDirection="ltr" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr">
+        <FrameLayout android:layout_gravity="left" android:id="@id/lazy_inflated_ui_component_container_back" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/icons" android:layout_width="fill_parent" android:layout_height="fill_parent" android:baselineAligned="false" android:layoutDirection="ltr">
+        <LinearLayout android:gravity="right" android:orientation="vertical" android:id="@id/left_container" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="@dimen/left_container_width" android:layout_height="fill_parent" android:layoutDirection="ltr" />
+        <FrameLayout android:id="@id/center_container" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" android:layoutDirection="ltr">
+            <FrameLayout android:layout_gravity="center|right|top" android:id="@id/setting_indicator_container" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layoutDirection="ltr">
+                <include android:layout_width="wrap_content" android:layout_height="fill_parent" android:layoutDirection="ltr" layout="@layout/viewfinder_setting_indicators" />
+            </FrameLayout>
+            <com.sonyericsson.cameracommon.viewfinder.balloontips.BalloonTips android:id="@id/balloon_tips_for_mode_selector_base" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr">
+                <include android:id="@id/balloon_tips_for_mode_selector" android:inflatedId="@id/balloon_tips_for_mode_selector" layout="@layout/balloon_tips" />
+            </com.sonyericsson.cameracommon.viewfinder.balloontips.BalloonTips>
+        </FrameLayout>
+        <FrameLayout android:id="@id/right_container" android:layout_width="@dimen/right_container_width" android:layout_height="fill_parent" android:layoutDirection="ltr">
+            <FrameLayout android:layout_gravity="center" android:id="@id/alter_capture_button" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <include layout="@layout/viewfinder_right_items" />
+        </FrameLayout>
+    </LinearLayout>
+    <com.sonyericsson.cameracommon.zoombar.Zoombar android:layout_gravity="center|left|top" android:id="@id/zoombar" android:focusable="false" android:focusableInTouchMode="false" android:visibility="invisible" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="42.0dip" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr">
+        <FrameLayout android:layout_gravity="left" android:id="@id/lazy_inflated_ui_component_container" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/lazy_inflated_ui_component_container_fullscreen" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layoutDirection="ltr" />
+</FrameLayout>

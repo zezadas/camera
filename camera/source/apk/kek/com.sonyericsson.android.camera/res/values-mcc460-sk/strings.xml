@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Fotoaparát Sony s WLAN a NFC</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Ak je vaša Xperia™ pripojená k inému zariadeniu Xperia™, nedá sa prepojiť s fotoaparátom Sony s podporou WLAN a NFC.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Ak je vaša Xperia™ pripojená k fotoaparátu Sony s podporou WLAN a NFC, nemôže sa pripojiť k inému zariadeniu Xperia™.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">K zariadeniu Xperia™ môžete naraz pripojiť iba jeden fotoaparát Sony s podporou WLAN a NFC.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Počas zdieľania WLAN pripojenia tento režim nie je k dispozícii.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Použiť WLAN a mobilné dáta</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Zapnúť pripojenie WLAN</string>
+</resources>

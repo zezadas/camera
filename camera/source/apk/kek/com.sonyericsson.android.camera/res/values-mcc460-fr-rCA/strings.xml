@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Caméra WLAN/NFC de Sony</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Impossible de se connecter à une caméra WLAN/NFC de Sony lorsque votre Xperia™ est connecté à un autre Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Impossible de se connecter à un Xperia™ lorsque votre Xperia™ est connecté à une caméra WLAN/NFC de Sony.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">"Votre Xperia™ ne peut être branché qu'à une caméra WLAN/NFC de Sony à la fois."</string>
+    <string name="cam_strings_multicam_error_wifi_txt">"Ce mode n'est pas disponible lorsque la fonction modem WLAN est utilisée."</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">WLAN et données mobiles</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Activer WLAN</string>
+</resources>

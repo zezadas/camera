@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cam_strings_multicam_nfc_connect_wifi_camera_txt">Камера на Sony со WLAN/NFC</string>
+    <string name="cam_strings_multicam_di_connection_err_dialog_txt">Не може да се поврзе со камерата на Sony со WLAN/NFC додека вашиот Xperia™ е поврзан со друг Xperia™.</string>
+    <string name="cam_strings_multicam_xperia_connection_err_dialog_txt">Не може да се поврзе со Xperia™ додека вашиот Xperia™ е поврзан со камерата на Sony со WLAN/NFC.</string>
+    <string name="cam_strings_multicam_excess_di_connection_num_err_dialog_txt">Само една камера на Sony со WLAN/NFC може да се поврзе со вашиот Xperia™ одеднаш.</string>
+    <string name="cam_strings_multicam_error_wifi_txt">Овој режим не е достапен за време на WLAN поврзување на компјутерот на интернет преку мобилен телефон.</string>
+    <string name="cam_strings_dialog_cta_wifi_mobile_data_txt">Користи WLAN и моб. подат.</string>
+    <string name="cam_strings_dialog_cta_turn_on_wifi_txt">Вклучи WLAN</string>
+</resources>
