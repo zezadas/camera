@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_max_still_capture_resolution_as_default_regardless_of_display_aspect">true</bool>
+</resources>

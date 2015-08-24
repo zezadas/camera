@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ux_recommended_resolution_array_main_superiorauto_20m">
+        <item>TWENTY_MP</item>
+        <item>FIFTEEN_MP_WIDE</item>
+        <item>EIGHT_MP</item>
+        <item>EIGHT_MP_WIDE</item>
+    </string-array>
+    <string-array name="ux_recommended_photo_focus_modes">
+        <item>SINGLE</item>
+        <item>MULTI</item>
+        <item>FACE_DETECTION</item>
+        <item>FIXED</item>
+        <item>TOUCH_FOCUS</item>
+        <item>OBJECT_TRACKING</item>
+        <item>INFINITY</item>
+        <item>MACRO</item>
+    </string-array>
+</resources>

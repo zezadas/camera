@@ -1,0 +1,2 @@
+Summary for source-nocode.jar
+Decompiled with CFR 0_100

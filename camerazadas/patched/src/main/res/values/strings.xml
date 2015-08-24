@@ -1,0 +1,69 @@
+<resources>
+
+    <!--Source and patched resources are merged according to standard android gradle build rules.-->
+
+    <!--Let's override the app name.-->
+    <string name="cam_strings_application_name_txt">CameraZadas</string>
+    <string name="cam_strings_iso_64_txt_mod">64</string>
+    <string name="cam_strings_iso_80_txt_mod">80</string>
+    <string name="cam_strings_iso_125_txt_mod">125</string>
+    <string name="cam_strings_iso_160_txt_mod">160</string>
+    <string name="cam_strings_iso_250_txt_mod">250</string>
+    <string name="cam_strings_iso_320_txt_mod">320</string>
+    <string name="cam_strings_iso_500_txt_mod">500</string>
+    <string name="cam_strings_iso_640_txt_mod">640</string>
+    <string name="cam_strings_iso_1000_txt_mod">1000</string>
+    <string name="cam_strings_iso_1250_txt_mod">1250</string>
+    <string name="cam_strings_iso_2000_txt_mod">2000</string>
+    <string name="cam_strings_iso_2500_txt_mod">2500</string>
+    <string name="cam_strings_iso_50_txt_mod">50</string>
+    <string name="cam_strings_iso_100_txt_mod">100</string>
+    <string name="cam_strings_iso_200_txt_mod">200</string>
+    <string name="cam_strings_iso_400_txt_mod">400</string>
+    <string name="cam_strings_iso_800_txt_mod">800</string>
+    <string name="cam_strings_iso_1600_txt_mod">1600</string>
+    <string name="cam_strings_iso_3200_txt_mod">3200</string>
+    <string name="cam_strings_iso_6400_txt_mod">6400</string>
+    <string name="cam_strings_iso_10000_txt_mod">10000</string>
+    <string name="cam_strings_iso_12800_txt_mod">12800</string>
+    <string name="cam_strings_iso_19_txt_mod">19</string>
+    <string name="cam_strings_settings_shutter_prio_txt">shutter_prio</string>
+    <string name="cam_strings_settings_manual_txt">manual</string>
+
+    <string name="cam_strings_captureframeshape_4_3_txt_mod">20MP 4:3</string>
+    <string name="cam_strings_captureframeshape_16_9_txt_mod">15MP 16:9</string>
+    <string name="cam_strings_captureframeshape_8_16_9_txt_mod">8MP 16:9</string>
+    <string name="cam_strings_captureframeshape_8_4_3_txt_mod">8MP 4:3</string>
+    <string name="cam_strings_focus_mode_single_af_txt_mod">Single autofocus</string>
+    <string name="cam_strings_focus_mode_multi_af_txt_mod">Multi autofocus</string>
+    <string name="cam_strings_focus_mode_fixed_af_txt_mod">Fixed autofocus</string>
+    <string name="cam_strings_focus_mode_face_detection_txt_mod">Face detection</string>
+    <string name="cam_strings_focus_mode_touch_focus_txt_mod">Touch focus</string>
+    <string name="cam_strings_focus_mode_infinity_txt_mod">Infinity</string>
+    <string name="cam_strings_focus_mode_object_tracking_txt_mod">Object tracking</string>
+    <string name="cam_strings_focus_mode_macro_txt_mod">Macro</string>
+
+    <string name="cam_strings_exposure_mode_title_txt">Exposure Mode</string>
+    <string name="cam_strings_exposure_mode_txt">Exposure Mode</string>
+    <string name="cam_strings_exposure_mode_shutter_prio_txt_mod">Shutter Prio</string>
+    <string name="cam_strings_exposure_mode_iso_prio_txt_mod">ISO Prio</string>
+    <string name="cam_strings_exposure_mode_auto_txt_mod">Auto</string>
+    <string name="cam_strings_exposure_mode_manual_txt_mod">Manual</string>
+    <string name="cam_strings_shutter_speed_title_txt">Shutter Speed</string>
+    <string name="cam_strings_shutter_speed_0_txt">0</string>
+    <string name="cam_strings_shutter_speed_1_txt">1</string>
+    <string name="cam_strings_shutter_speed_2_txt">2</string>
+    <string name="cam_strings_shutter_speed_3_txt">3</string>
+    <string name="cam_strings_shutter_speed_4_txt">4</string>
+    <string name="cam_strings_shutter_speed_5_txt">5</string>
+    <string name="cam_strings_shutter_speed_6_txt">6</string>
+    <string name="cam_strings_shutter_speed_7_txt">7</string>
+    <string name="cam_strings_shutter_speed_8_txt">8</string>
+    <string name="cam_strings_shutter_speed_9_txt">9</string>
+    <string name="cam_strings_shutter_speed_10_txt">10</string>
+    <string name="cam_strings_shutter_speed_11_txt">11</string>
+    <string name="cam_strings_shutter_speed_12_txt">12</string>
+    <string name="cam_strings_shutter_speed_txt">Shutter Speed</string>
+
+
+</resources>

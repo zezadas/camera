@@ -1,0 +1,1253 @@
+Summary for source.jar
+Decompiled with CFR 0_100
+
+
+android.support.v4.app.BackStackRecord
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+android.support.v4.app.FragmentActivity
+----------------------------
+
+viewToString(android.view.View )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [7[CASE]], but top level block is 0[TRYBLOCK]
+
+
+android.support.v4.app.FragmentManagerImpl
+----------------------------
+
+moveToState(android.support.v4.app.Fragment int int int boolean )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+android.support.v4.app.NotificationCompatJellybean
+----------------------------
+
+getExtras(android.app.Notification )
+  Unable to fully structure code
+
+
+android.support.v4.app.NotificationManagerCompat
+----------------------------
+
+processListenerQueue(android.support.v4.app.NotificationManagerCompat$SideChannelManager$ListenerRecord )
+  Unable to fully structure code
+
+
+android.support.v4.content.ModernAsyncTask
+----------------------------
+
+executeOnExecutor(java.util.concurrent.Executor Params[] )
+  Unable to fully structure code
+
+
+android.support.v4.content.FileProvider
+----------------------------
+
+getPathStrategy(android.content.Context java.lang.String )
+  Loose catch block
+getUriForFile(java.io.File )
+  Unable to fully structure code
+
+
+android.support.v4.content.LocalBroadcastManager
+----------------------------
+
+sendBroadcast(android.content.Intent )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+unregisterReceiver(android.content.BroadcastReceiver )
+  Unable to fully structure code
+
+
+android.support.v4.text.BidiFormatter
+----------------------------
+
+getEntryDir()
+  Unable to fully structure code
+
+
+android.support.v4.text.ICUCompatIcs
+----------------------------
+
+addLikelySubtags(java.lang.String )
+  Loose catch block
+getScript(java.lang.String )
+  Loose catch block
+
+
+android.support.v4.util.SimpleArrayMap
+----------------------------
+
+freeArrays(int[] java.lang.Object[] int )
+  Unable to fully structure code
+
+
+android.support.v4.util.DebugUtils
+----------------------------
+
+buildShortClassTag(java.lang.Object java.lang.StringBuilder )
+  Unable to fully structure code
+
+
+android.support.v4.util.TimeUtils
+----------------------------
+
+printField(char[] int char int boolean int )
+  Unable to fully structure code
+
+
+android.support.v4.view.GestureDetectorCompat
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+android.support.v4.view.PagerTitleStrip
+----------------------------
+
+<init>(android.content.Context android.util.AttributeSet )
+  Unable to fully structure code
+
+
+android.support.v4.view.PagerTabStrip
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+android.support.v4.view.ViewPager
+----------------------------
+
+calculatePageOffsets(android.support.v4.view.ViewPager$ItemInfo int android.support.v4.view.ViewPager$ItemInfo )
+  Unable to fully structure code
+arrowScroll(int )
+  Unable to fully structure code
+onInterceptTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+populate(int )
+  Unable to fully structure code
+
+
+android.support.v4.widget.DrawerLayout
+----------------------------
+
+onMeasure(int int )
+  Unable to fully structure code
+
+
+android.support.v4.widget.SlidingPaneLayout
+----------------------------
+
+parallaxOtherViews(float )
+  Unable to fully structure code
+onInterceptTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+onMeasure(int int )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+onViewReleased(android.view.View float float )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Statement already marked as first in another block
+
+
+android.support.v4.widget.SwipeRefreshLayout
+----------------------------
+
+onInterceptTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+android.support.v4.widget.ViewDragHelper
+----------------------------
+
+processTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.google.ads.AdSize
+----------------------------
+
+findBestSize(com.google.ads.AdSize[] )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.a
+----------------------------
+
+x(android.content.Context )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.ab
+----------------------------
+
+F(int )
+  Unable to fully structure code
+G(int )
+  Unable to fully structure code
+a(java.lang.String android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+onOpen(android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.ag
+----------------------------
+
+a(com.google.android.gms.analytics.aa java.net.URL boolean )
+  Loose catch block
+h(java.lang.String java.lang.String )
+  Loose catch block
+a(java.util.List<com.google.android.gms.analytics.w> com.google.android.gms.analytics.aa boolean )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.j
+----------------------------
+
+a(android.content.res.XmlResourceParser )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.h
+----------------------------
+
+dV()
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.q
+----------------------------
+
+a(boolean boolean )
+  Unable to fully structure code
+
+
+com.google.android.gms.analytics.r
+----------------------------
+
+eh()
+  Unable to fully structure code
+
+
+com.google.android.gms.auth.AccountChangeEvent
+----------------------------
+
+toString()
+  Unable to fully structure code
+
+
+com.google.android.gms.auth.GoogleAuthUtil
+----------------------------
+
+clearToken(android.content.Context java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 5[CATCHBLOCK]
+
+
+com.google.android.gms.cast.MediaInfo
+----------------------------
+
+bK()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.cast.MediaMetadata
+----------------------------
+
+a(org.json.JSONObject java.lang.String[] )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+b(org.json.JSONObject java.lang.String[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+
+
+com.google.android.gms.cast.MediaStatus
+----------------------------
+
+a(org.json.JSONObject int )
+  Unable to fully structure code
+
+
+com.google.android.gms.cast.MediaTrack
+----------------------------
+
+bK()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.cast.TextTrackStyle
+----------------------------
+
+bK()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.common.GooglePlayServicesUtil
+----------------------------
+
+a(int android.app.Activity android.support.v4.app.Fragment int android.content.DialogInterface$OnCancelListener )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+getOpenSourceSoftwareLicenseInfo(android.content.Context )
+  Loose catch block
+isGooglePlayServicesAvailable(android.content.Context )
+  Unable to fully structure code
+
+
+com.google.android.gms.common.api.b
+----------------------------
+
+onConnectionSuspended(int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+gn()
+  Unable to fully structure code
+blockingConnect(long java.util.concurrent.TimeUnit )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+com.google.android.gms.common.api.d
+----------------------------
+
+onActivityResult(int int android.content.Intent )
+  Unable to fully structure code
+
+
+com.google.android.gms.common.data.DataHolder
+----------------------------
+
+a(com.google.android.gms.common.data.DataHolder$a int )
+  Exception : java.lang.IllegalStateException: Backjump on non jumping statement [] lbl71 : TryStatement: try { 2[TRYBLOCK]
+
+
+
+com.google.android.gms.common.data.a
+----------------------------
+
+writeToParcel(android.os.Parcel int )
+  Loose catch block
+
+
+com.google.android.gms.common.internal.f
+----------------------------
+
+aB(int )
+  Unable to fully structure code
+d(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.drive.events.DriveEventService
+----------------------------
+
+a(com.google.android.gms.drive.internal.OnEventResponse )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.games.internal.GamesClientImpl
+----------------------------
+
+a(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.achievement.Achievements$UpdateAchievementResult> java.lang.String int )
+  Unable to fully structure code
+a(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.Players$LoadPlayersResult> java.lang.String int boolean boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+a(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.leaderboard.Leaderboards$SubmitScoreResult> java.lang.String long java.lang.String )
+  Unable to fully structure code
+a(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.Players$LoadPlayersResult> java.lang.String java.lang.String int boolean boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+b(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.achievement.Achievements$UpdateAchievementResult> java.lang.String )
+  Unable to fully structure code
+b(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.achievement.Achievements$UpdateAchievementResult> java.lang.String int )
+  Unable to fully structure code
+c(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.games.achievement.Achievements$UpdateAchievementResult> java.lang.String )
+  Unable to fully structure code
+kc()
+  Loose catch block
+kd()
+  Loose catch block
+
+
+com.google.android.gms.internal.af
+----------------------------
+
+e(boolean )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.bb
+----------------------------
+
+<init>(android.content.Context android.util.AttributeSet )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.cf
+----------------------------
+
+onConnected(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.cz
+----------------------------
+
+b(java.lang.String int java.lang.String )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.dk
+----------------------------
+
+onCreate(android.os.Bundle )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.internal.dz
+----------------------------
+
+onServiceConnected(android.content.ComponentName android.os.IBinder )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.ec
+----------------------------
+
+cr()
+  Unable to fully structure code
+d(long )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [8[CATCHBLOCK]], but top level block is 14[UNCONDITIONALDOLOOP]
+
+
+com.google.android.gms.internal.fb
+----------------------------
+
+a(com.google.android.gms.internal.fi )
+  Unable to fully structure code
+co()
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.fg
+----------------------------
+
+co()
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.fo
+----------------------------
+
+cF()
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.fr
+----------------------------
+
+a(android.content.Context java.lang.String java.lang.String java.lang.String com.google.android.gms.internal.fv )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 17[UNCONDITIONALDOLOOP]
+
+
+com.google.android.gms.internal.fs
+----------------------------
+
+a(android.content.Context com.google.android.gms.internal.fi java.lang.String )
+  Unable to fully structure code
+a(com.google.android.gms.internal.fi com.google.android.gms.internal.fw android.location.Location java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK], 4[FORLOOP]], but top level block is 2[TRYBLOCK]
+
+
+com.google.android.gms.internal.go
+----------------------------
+
+call()
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.gv
+----------------------------
+
+onMeasure(int int )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.i
+----------------------------
+
+b(android.content.Context )
+  Loose catch block
+c(android.content.Context )
+  Loose catch block
+
+
+com.google.android.gms.internal.ib
+----------------------------
+
+a(com.google.android.gms.common.api.BaseImplementation$b<com.google.android.gms.appstate.AppStateManager$StateResult> int byte[] )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.iu
+----------------------------
+
+a(java.util.List<com.google.android.gms.common.images.WebImage> org.json.JSONObject )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.jz
+----------------------------
+
+d(java.lang.Object java.lang.Object )
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.no
+----------------------------
+
+mY()
+  Unable to fully structure code
+
+
+com.google.android.gms.internal.pi
+----------------------------
+
+b(java.lang.Object com.google.android.gms.internal.pg )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+u(com.google.android.gms.internal.pf )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.internal.u
+----------------------------
+
+a(com.google.android.gms.internal.fz )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.GoogleMap
+----------------------------
+
+setInfoWindowAdapter(com.google.android.gms.maps.GoogleMap$InfoWindowAdapter )
+  Unable to fully structure code
+setLocationSource(com.google.android.gms.maps.LocationSource )
+  Unable to fully structure code
+setOnCameraChangeListener(com.google.android.gms.maps.GoogleMap$OnCameraChangeListener )
+  Unable to fully structure code
+setOnIndoorStateChangeListener(com.google.android.gms.maps.GoogleMap$OnIndoorStateChangeListener )
+  Unable to fully structure code
+setOnInfoWindowClickListener(com.google.android.gms.maps.GoogleMap$OnInfoWindowClickListener )
+  Unable to fully structure code
+setOnMapClickListener(com.google.android.gms.maps.GoogleMap$OnMapClickListener )
+  Unable to fully structure code
+setOnMapLoadedCallback(com.google.android.gms.maps.GoogleMap$OnMapLoadedCallback )
+  Unable to fully structure code
+setOnMapLongClickListener(com.google.android.gms.maps.GoogleMap$OnMapLongClickListener )
+  Unable to fully structure code
+setOnMarkerClickListener(com.google.android.gms.maps.GoogleMap$OnMarkerClickListener )
+  Unable to fully structure code
+setOnMarkerDragListener(com.google.android.gms.maps.GoogleMap$OnMarkerDragListener )
+  Unable to fully structure code
+setOnMyLocationButtonClickListener(com.google.android.gms.maps.GoogleMap$OnMyLocationButtonClickListener )
+  Unable to fully structure code
+setOnMyLocationChangeListener(com.google.android.gms.maps.GoogleMap$OnMyLocationChangeListener )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.MapFragment
+----------------------------
+
+onCreate(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.StreetViewPanorama
+----------------------------
+
+setOnStreetViewPanoramaCameraChangeListener(com.google.android.gms.maps.StreetViewPanorama$OnStreetViewPanoramaCameraChangeListener )
+  Unable to fully structure code
+setOnStreetViewPanoramaChangeListener(com.google.android.gms.maps.StreetViewPanorama$OnStreetViewPanoramaChangeListener )
+  Unable to fully structure code
+setOnStreetViewPanoramaClickListener(com.google.android.gms.maps.StreetViewPanorama$OnStreetViewPanoramaClickListener )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.StreetViewPanoramaFragment
+----------------------------
+
+onCreate(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.SupportMapFragment
+----------------------------
+
+onCreate(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.maps.SupportStreetViewPanoramaFragment
+----------------------------
+
+onCreate(android.os.Bundle )
+  Unable to fully structure code
+
+
+com.google.android.gms.plus.PlusOneDummyView
+----------------------------
+
+getDrawable(int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.google.android.gms.tagmanager.ai
+----------------------------
+
+c(com.google.android.gms.tagmanager.DataLayer com.google.android.gms.internal.c$d )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.az
+----------------------------
+
+C(java.util.Map<java.lang.String, com.google.android.gms.internal.d$a> )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.google.android.gms.tagmanager.cb
+----------------------------
+
+F(int )
+  Unable to fully structure code
+G(int )
+  Unable to fully structure code
+oH()
+  Unable to fully structure code
+a(java.lang.String android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+onOpen(android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.ce
+----------------------------
+
+i(android.net.Uri )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.co
+----------------------------
+
+oN()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [0[TRYBLOCK]], but top level block is 6[CATCHBLOCK]
+
+
+com.google.android.gms.tagmanager.cq
+----------------------------
+
+c(com.google.android.gms.internal.ol$a )
+  Loose catch block
+ff(int )
+  Unable to fully structure code
+oR()
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.cr
+----------------------------
+
+a(int com.google.android.gms.internal.c$f com.google.android.gms.internal.d$a[] java.util.Set<java.lang.Integer> )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.cy
+----------------------------
+
+a(boolean boolean )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.db
+----------------------------
+
+a(java.net.URL )
+  Unable to fully structure code
+j(java.util.List<com.google.android.gms.tagmanager.ap> )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.di
+----------------------------
+
+u(java.lang.Object )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.dj
+----------------------------
+
+b(com.google.android.gms.analytics.Tracker java.util.Map<java.lang.String, com.google.android.gms.internal.d$a> )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.v
+----------------------------
+
+fh(int )
+  Unable to fully structure code
+j(byte[] )
+  Unable to fully structure code
+m(java.lang.Object )
+  Unable to fully structure code
+a(java.lang.String android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+onOpen(android.database.sqlite.SQLiteDatabase )
+  Unable to fully structure code
+
+
+com.google.android.gms.tagmanager.y
+----------------------------
+
+cz(java.lang.String )
+  Loose catch block
+
+
+com.google.android.gms.wearable.DataMap
+----------------------------
+
+a(com.google.android.gms.wearable.DataMap com.google.android.gms.wearable.DataMap )
+  Unable to fully structure code
+
+
+com.google.android.gms.wearable.internal.aw
+----------------------------
+
+qa()
+  Loose catch block
+
+
+com.sonyericsson.android.camera.CameraButtonIntentReceiver
+----------------------------
+
+onReceive(android.content.Context android.content.Intent )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.android.camera.configuration.ConversationReader
+----------------------------
+
+read(com.sonyericsson.android.camera.configuration.MmsOptions$Builder )
+  Loose catch block
+
+
+com.sonyericsson.android.camera.configuration.parameters.Resolution
+----------------------------
+
+getHdrResolution(com.sonyericsson.android.camera.configuration.parameters.Resolution boolean int )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.controller.ControllerMessageHandler
+----------------------------
+
+dispatch(com.sonyericsson.android.camera.controller.ControllerMessage )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.controller.EventDispatcher
+----------------------------
+
+sendCaptureEvent(com.sonyericsson.android.camera.controller.EventAction com.sonyericsson.android.camera.controller.ControllerEventSource )
+  Unable to fully structure code
+updateTouchEventTranslator(com.sonyericsson.android.camera.parameter.Parameters )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.android.camera.controller.Shooting
+----------------------------
+
+store(byte[] )
+  Unable to fully structure code
+onPictureTaken(byte[] android.hardware.Camera )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.controller.TouchFocusDetector
+----------------------------
+
+onTouch(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.device.CameraDevice
+----------------------------
+
+commitParameters()
+  Exception : java.lang.ClassCastException: org.benf.cfr.reader.bytecode.analysis.parse.statement.Nop cannot be cast to org.benf.cfr.reader.bytecode.analysis.parse.statement.TryStatement
+joinOpenCameraDeviceTask(boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 6[CATCHBLOCK]
+joinSetupCameraDeviceTask(boolean )
+  Unable to fully structure code
+open(int )
+  Unable to fully structure code
+setFocusRect(android.graphics.Rect )
+  Unable to fully structure code
+run()
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.fastcapturing.CameraDeviceHandler
+----------------------------
+
+releaseCamera()
+  Unable to fully structure code
+finalizeRecording()
+  Unable to fully structure code
+startCameraOpen(android.content.Context int com.sonyericsson.cameracommon.commonsetting.values.FastCapture boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+startRecording(com.sonyericsson.cameracommon.mediasaving.takenstatus.VideoSavingRequest com.sonymobile.cameracommon.media.recorder.RecorderInterface$RecorderListener )
+  Unable to fully structure code
+stopRecording(com.sonyericsson.cameracommon.activity.BaseActivity )
+  Unable to fully structure code
+onPictureTaken(byte[] android.hardware.Camera )
+  Loose catch block
+
+
+com.sonyericsson.android.camera.fastcapturing.FastCapturingActivity
+----------------------------
+
+onKeyUp(int android.view.KeyEvent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[CASE]], but top level block is 3[SWITCH]
+run()
+  Unable to fully structure code
+run()
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.fastcapturing.StateMachine
+----------------------------
+
+createTakenStatusCommon(com.sonyericsson.cameracommon.mediasaving.SavingTaskManager$SavedFileType android.graphics.Rect java.lang.String java.lang.String java.lang.String )
+  Unable to fully structure code
+createVideoSavingRequest(com.sonyericsson.cameracommon.mediasaving.SavingTaskManager$SavedFileType )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+sendEvent(com.sonyericsson.android.camera.fastcapturing.StateMachine$TransitterEvent java.lang.Object[] )
+  Unable to fully structure code
+sendStaticEvent(com.sonyericsson.android.camera.fastcapturing.StateMachine$StaticEvent java.lang.Object[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+handleOnStoreCompleted(java.lang.Object[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.sonyericsson.android.camera.fastcapturing.view.FastViewFinder
+----------------------------
+
+changeToPhotoDialogView(com.sonyericsson.android.camera.fastcapturing.view.BaseFastViewFinder$UiComponentKind )
+  Unable to fully structure code
+updateViewFinderCaptureAreaTouchEventHandling(com.sonyericsson.cameracommon.commonsetting.values.TouchCapture com.sonyericsson.android.camera.fastcapturing.view.BaseFastViewFinder$HeadUpDisplaySetupState )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+onModeSelect(java.lang.String )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.cameracommon.mediasaving.SavingTaskManager
+----------------------------
+
+storeVideo(com.sonyericsson.cameracommon.mediasaving.takenstatus.VideoSavingRequest )
+  Unable to fully structure code
+storeData(java.lang.Exception )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[TRYBLOCK]], but top level block is 16[CATCHBLOCK]
+run()
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.mediasaving.MediaSavingUtil
+----------------------------
+
+convertYuvToJpegOutputStream(android.graphics.YuvImage java.io.OutputStream com.sonyericsson.cameracommon.mediasaving.takenstatus.SavingRequest )
+  Loose catch block
+saveImage(byte[] android.net.Uri android.content.Context )
+  Loose catch block
+saveImage(byte[] java.lang.String int )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.parameter.CapturingModeParams
+----------------------------
+
+<init>(com.sonyericsson.android.camera.configuration.parameters.CapturingMode )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.android.camera.util.DebugEventIntruder
+----------------------------
+
+behaviour(java.io.InputStreamReader )
+  Unable to fully structure code
+getEventData(java.io.InputStreamReader )
+  Loose catch block
+getExtraDataDouble(java.io.InputStreamReader )
+  Loose catch block
+getExtraDataLong(java.io.InputStreamReader )
+  Loose catch block
+run()
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.util.capability.ResolutionOptions
+----------------------------
+
+<init>(android.content.Context int int boolean )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.view.FocusRectanglesManager
+----------------------------
+
+changeRectangle(com.sonyericsson.android.camera.configuration.parameters.CapturingMode com.sonyericsson.android.camera.configuration.parameters.FocusMode com.sonyericsson.android.camera.configuration.parameters.SmileCapture )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.view.RotatableImageView
+----------------------------
+
+update()
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.view.TouchArea
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.sonyericsson.android.camera.view.settings.SettingController
+----------------------------
+
+onKey(android.view.View int android.view.KeyEvent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[CASE]], but top level block is 3[SWITCH]
+checkValueIsSelectable(com.sonyericsson.android.camera.configuration.ParameterKey com.sonyericsson.android.camera.parameter.ParameterManager com.sonyericsson.android.camera.configuration.parameters.ParameterValue boolean )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Extractable last case doesn't follow previous
+
+
+com.sonyericsson.android.camera.view.settings.executor.SettingExecutorFactory
+----------------------------
+
+createSettingChangeExecutor(android.content.Context com.sonyericsson.android.camera.configuration.ParameterKey com.sonyericsson.android.camera.configuration.parameters.ParameterValue com.sonyericsson.android.camera.parameter.ParameterManager com.sonyericsson.android.camera.view.settings.SettingController boolean )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.capturearea.CaptureArea
+----------------------------
+
+updateView()
+  Unable to fully structure code
+onTouch(android.view.View android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.opengl.ExtendedGlSurfaceView
+----------------------------
+
+loadShaderSourceCodesFrom(android.content.Context int[] )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.commonsetting.CommonSettings
+----------------------------
+
+loadUnSelectableSettings()
+  Unable to fully structure code
+load()
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.contentsview.MpoUtils
+----------------------------
+
+getType(java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [1[TRYBLOCK]], but top level block is 18[FORLOOP]
+
+
+com.sonyericsson.cameracommon.contentsview.ThumbnailFactory
+----------------------------
+
+createMicroThumbnail(com.sonyericsson.cameracommon.contentsview.contents.Content$ContentInfo )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+createVideoThumbnail(android.content.Context android.net.Uri )
+  Loose catch block
+createVideoThumbnail(java.lang.String )
+  Loose catch block
+
+
+com.sonyericsson.cameracommon.device.CameraOpener
+----------------------------
+
+open(int )
+  Loose catch block
+
+
+com.sonyericsson.cameracommon.interaction.TouchActionTranslator
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.sonyericsson.cameracommon.launcher.AlbumLauncher
+----------------------------
+
+onResume()
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.mediasaving.DcfPathBuilder
+----------------------------
+
+assignImageFilePath(int android.content.ContentResolver )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.cameracommon.mediasaving.StorageController
+----------------------------
+
+showOrClearStorageErrorPopup(com.sonyericsson.cameracommon.mediasaving.StorageController$StorageState )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.mediasaving.StorageAutoSwitchController
+----------------------------
+
+showOrClearStorageErrorPopup(com.sonyericsson.cameracommon.mediasaving.StorageController$StorageState )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.mediasaving.StorageUtil
+----------------------------
+
+getPathFromUri(android.content.Context android.net.Uri )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.mediasaving.location.GeotagManager
+----------------------------
+
+startLocationUpdates(boolean boolean )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.review.ReviewScreen
+----------------------------
+
+setupScreen(android.app.Activity android.net.Uri byte[] java.lang.String java.lang.String android.graphics.Rect int int boolean )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonyericsson.cameracommon.setting.controller.SettingDialogStack
+----------------------------
+
+onTouchEvent(android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.sound.SoundPlayer
+----------------------------
+
+playSound(android.content.Context int )
+  Loose catch block
+
+
+com.sonyericsson.cameracommon.utility.CommonUtility
+----------------------------
+
+dumpFile(byte[] java.lang.String )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.utility.FaceDetectUtil
+----------------------------
+
+sortRectangles(java.util.HashMap<java.lang.String, com.sonyericsson.cameracommon.focusview.TaggedRectangle> com.sonyericsson.cameracommon.focusview.FaceInformationList )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.utility.ImageLoader
+----------------------------
+
+load()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 3 blocks at once
+
+
+com.sonyericsson.cameracommon.utility.MeasurePerformance
+----------------------------
+
+writeFile(java.lang.String )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.viewfinder.DefaultLayoutPatternApplier
+----------------------------
+
+apply(com.sonyericsson.cameracommon.viewfinder.LayoutPattern )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.viewfinder.capturingmode.CapturingModeButton
+----------------------------
+
+onTouch(android.view.View android.view.MotionEvent )
+  Unable to fully structure code
+
+
+com.sonyericsson.cameracommon.wificontroller.negotiation.WifiNetworkEnvironment
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.cameraparametervalidator.CameraParameterValidator
+----------------------------
+
+loadCheckList(android.content.Context java.util.List<com.sonymobile.cameracommon.cameraparametervalidator.CameraParameterValidator$ValidationCase> int )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [6[CASE]], but top level block is 3[TRYBLOCK]
+
+
+com.sonymobile.cameracommon.gltextureview.GLTextureView
+----------------------------
+
+onSurfaceTextureDestroyed(android.graphics.SurfaceTexture )
+  Unable to fully structure code
+requestAction(java.lang.Runnable )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+requestRender()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.sonymobile.cameracommon.gltextureview.ExtendedGLTextureView
+----------------------------
+
+loadShaderSourceCodesFrom(android.content.Context int )
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.imageconvertor.ImageConvertor
+----------------------------
+
+convertYuvToBitmap(android.graphics.YuvImage android.graphics.BitmapFactory$Options )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+com.sonymobile.cameracommon.media.encoder.EncodedDataWriteTask
+----------------------------
+
+run()
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.media.recorder.MediaRecorderController
+----------------------------
+
+awaitFinish()
+  Unable to fully structure code
+call()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 2 blocks at once
+
+
+com.sonymobile.cameracommon.media.utility.AudioResourceChecker
+----------------------------
+
+isAudioResourceAvailableCheckWithAudioRecord()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+
+
+com.sonymobile.cameracommon.opengl.ShaderProgramFactory
+----------------------------
+
+createShaderProgram(android.content.Context int[] int[] )
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.remotedevice.RemoteDevice
+----------------------------
+
+loadDefaultCapability()
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.remotedevice.RemoteDeviceScanner
+----------------------------
+
+requestOnBack(com.sonymobile.cameracommon.remotedevice.RemoteDeviceScanner$OnRemoteDeviceScannedCallback java.util.concurrent.ExecutorService int )
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.remotedevice.event.EventObserverController
+----------------------------
+
+loading()
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonymobile.cameracommon.remotedevice.stream.EvfStreamController
+----------------------------
+
+doOpen()
+  Loose catch block
+
+
+com.sonymobile.cameracommon.remotedevice.util.Util
+----------------------------
+
+readInputStreamAsByteArray(java.lang.String java.io.InputStream int )
+  Unable to fully structure code
+get(java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [5[TRYBLOCK]], but top level block is 27[SIMPLE_IF_TAKEN]
+post(java.lang.String java.lang.String java.lang.String )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Tried to end blocks [9[TRYBLOCK]], but top level block is 37[SIMPLE_IF_TAKEN]
+
+
+com.sonymobile.cameracommon.remotedevice.util.XmlElement
+----------------------------
+
+doParse(org.xmlpull.v1.XmlPullParser )
+  Exception : org.benf.cfr.reader.util.CannotPerformDecode: reachable test BLOCK was exited and re-entered.
+
+
+com.sonymobile.cameracommon.wifip2pcontroller.communication.UniCastSession
+----------------------------
+
+run()
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: Started 4 blocks at once
+run()
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.wifip2pcontroller.communication.UniCastStream
+----------------------------
+
+run()
+  Unable to fully structure code
+run()
+  Unable to fully structure code
+
+
+com.sonymobile.cameracommon.wifip2pcontroller.negotiation.NetworkStateMachine
+----------------------------
+
+sendEvent(com.sonymobile.cameracommon.wifip2pcontroller.negotiation.NetworkStateMachine$Event java.lang.Object[] )
+  Exception : org.benf.cfr.reader.util.ConfusedCFRException: First case is not immediately after switch.
+handleNodeSetChanged()
+  Unable to fully structure code
+
+
+com.sonymobile.gagtmhelper.GaGtmUtils
+----------------------------
+
+pushInitDefaultsToDataLayer(android.content.Context )
+  Unable to fully structure code
