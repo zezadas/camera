@@ -39,13 +39,13 @@ public class HardwareCapability {
     private static final String TAG = "HardwareCapability";
     private static CameraExtensionVersion sCameraExtensionVersion;
     private static final HardwareCapability sInstance;
-    private static int sNumberOfCameras = 0;
+    private static final int sNumberOfCameras;
     private CapabilityList[] mList = new CapabilityList[sNumberOfCameras];
     private boolean mNeedToClearSettingsInSharedPref = false;
     private final Map<String, String> mSaveSettingMap = new HashMap<String, String>();
     private SharedPreferencesUtil mSharedPrefsUtil;
 
-    @DexIgnore
+
     static {
         int n = Camera.getNumberOfCameras();
         if (n > 0) {

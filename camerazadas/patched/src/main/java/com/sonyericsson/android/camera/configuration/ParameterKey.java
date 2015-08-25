@@ -82,13 +82,13 @@ public enum ParameterKey {
         return this.mSelectability;
     }
 
-    @DexIgnore
+    @DexReplace
     public String getTitleText(Context context) {
         switch (this.ordinal()) {
             default: {
                 return null;
             }
-            case 3:
+            case 37:
         }
         return ResourceUtil.getApplicationLabel(context, "com.sonymobile.touchblocker");
     }
